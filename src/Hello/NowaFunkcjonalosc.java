@@ -7,8 +7,8 @@ public class NowaFunkcjonalosc {
 		
 		System.out.println("Nowa super rzecz");
 		
-		System.out.println("bsuper");
-		
+		System.out.println("super");
+		System.out.println("coœ dopisa³em")
 	}
 
 }
