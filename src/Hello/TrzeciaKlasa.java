@@ -6,7 +6,7 @@ public class TrzeciaKlasa {
 		
 		System.out.println("hello world");
 		
-		System.out.println("bla;bla;bla");
+		System.out.println("hahaha...");
 		
 
 	}
