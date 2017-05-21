@@ -8,6 +8,8 @@ public class TrzeciaKlasa {
 		
 		System.out.println("hahaha...");
 		
+		System.out.println("w koñcu koniec");
+		
 
 	}
 
